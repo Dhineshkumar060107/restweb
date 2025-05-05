@@ -107,7 +107,7 @@ home.html
 <body>
 
 <header>
-    <img src="dk.jpg" alt="HOTSPOT Logo"> 
+    <img src="dk.jpg" alt="DK Logo"> 
     <h1>DK Restaurant</h1>
 </header>
 
